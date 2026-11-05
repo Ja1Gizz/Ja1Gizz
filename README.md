@@ -67,3 +67,8 @@
 <img src="https://tenor.com/bBlth.gif"/>
 
 </details>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ja1gizz&style=flat-square&color=9400D3" /></p> 
+</div>
+
