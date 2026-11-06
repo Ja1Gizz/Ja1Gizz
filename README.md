@@ -22,7 +22,6 @@
 
 <div align="center">
   <a href="https://github.com/ja1gizz">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=ja1gizz&rank_icon=github&theme=midnight-purple">
     <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ja1gizz&layout=compact&langs_count=8&theme=midnight-purple&count_private=true">
   </a>
 </div>
